@@ -66,7 +66,7 @@ setup(
     ],
     install_requires=[
         'Click==6.6',
-        'arrow==0.10.0'
+        'arrow==0.12.1'
     ],
     extras_require={
         ':python_version < "2.7"': [
